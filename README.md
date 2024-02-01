@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mansisinghrathore
-- 👀 I’m interested in web development and data management
-- 🌱 I’m currently learning web development and java
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in python and sql
+- 🌱 I’m currently learning python and dsa
 - i am currently a CS student at poornima university
 
 <!---
