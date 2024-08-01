@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mansisinghrathore
-- 👀 I’m interested in python and sql
+- 👀 I’m interested in java and sql
 - 🌱 I’m currently learning python and dsa
 - i am currently a CS student at poornima university
 
